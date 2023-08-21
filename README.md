@@ -1,5 +1,5 @@
 # Chasing-Nemo
-A game inspired by Chrome's T-Rex game (no wifi Dino); built it from scratch with two teammates. Play the game at: https://repl.it/@ngohc/ExaltedFluidObservation-2#main.py
+A game inspired by Chrome's T-Rex game (no wifi Dino). Play the game at: https://repl.it/@ngohc/ExaltedFluidObservation-2#main.py
 
 
 Contributions include:
